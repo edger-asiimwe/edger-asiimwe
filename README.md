@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- How to reach me -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on ![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
