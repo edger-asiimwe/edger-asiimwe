@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FF%2Ffastapi-logo-541BAA112F-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F425420%2Ffastapi&tbnid=3_6bKANnmyXdlM&vet=12ahUKEwj6kMrbzPv3AhUDgHMKHZZwDNYQMygAegQIARBD..i&docid=R9rwVCI2XVfJ7M&w=300&h=300&q=fastapi%20icon&hl=en&ved=2ahUKEwj6kMrbzPv3AhUDgHMKHZZwDNYQMygAegQIARBD"/>
+  
   
   
   
