@@ -23,6 +23,7 @@
   
   #### 👨🏻‍💻 Databases <br />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/1A1A1A/postgreesql.png"/>
   
   
   #### 👨🏻‍💻 Tools <br />
