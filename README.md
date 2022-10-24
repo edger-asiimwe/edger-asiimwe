@@ -4,7 +4,7 @@
 
   
   - 🔭 I’m currently working as a Software Developer in Uganda
-  - 🌱 I’m currently learning Python - Flask, Data Science.
+  - 🌱 I’m currently learning Python - Django, Data Science.
   - 💬 Ask me about Software Engineering, Software Product Management, Data Science, Tech Start-ups
   - 😄 Am a Software Engineering Undergraduate.
   - ⚡ Fun fact: I always take coffee when coding
