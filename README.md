@@ -19,15 +19,16 @@
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   
   #### 👨🏻‍💻 Frameworks <br />
-  <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
+  <img src="https://img.icons8.com/ios/50/000000/flask.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
   
   #### 👨🏻‍💻 Databases <br />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;
   <img src="https://img.icons8.com/color/48/1A1A1A/postgreesql.png"/>
   
   
   #### 👨🏻‍💻 Tools <br />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> &nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
   
   
