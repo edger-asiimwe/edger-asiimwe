@@ -1,9 +1,9 @@
-### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hello there!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
   
 
   
-  - 🔭 I’m currently working as a Software Developer in Uganda
+  - 🔭 I’m currently working as a Interim Product Manager in Uganda
   - 🌱 I’m currently learning Python - Django, Data Science.
   - 💬 Ask me about Software Engineering, Software Product Management, Data Science, Tech Start-ups
   - 😄 Am a Software Engineering Undergraduate.
