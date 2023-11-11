@@ -3,9 +3,9 @@
   
 
   
-  - 🔭 I’m currently working as a Interim Product Manager in Uganda
-  - 🌱 I’m currently learning Python - Django, Data Science.
-  - 💬 Ask me about Software Engineering, Software Product Management, Data Science, Tech Start-ups
+  - 🔭 I’m currently working as an Associate Product Manager in Uganda
+  - 🌱 I’m currently learning Machine Learning.
+  - 💬 Ask me about Software Engineering, and Software Product Management
   - 😄 Am a Software Engineering Undergraduate.
   - ⚡ Fun fact: I always take coffee when coding
   
